@@ -104,3 +104,4 @@ function creditCardChecker (cardNumber) {
 
 
 
+console.log("test");
